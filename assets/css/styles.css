@@ -1,0 +1,22 @@
+body {background-color:#006699;}
+
+#timedate {
+  font: small-caps lighter 43px/150% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  text-align:left;
+  width: 50%;
+  margin: 40px auto;
+  color:#fff;
+  border-left: 3px solid #800040;
+  padding: 20px;
+}
+
+footer {
+  margin-top: 15em;
+  text-align: center;
+  font-size: 20px;
+}
+
+footer a {
+  color: #ffff1a;
+  text-decoration: none;
+}
